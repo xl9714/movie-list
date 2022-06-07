@@ -48,6 +48,10 @@ Incorporate Axios in order to fetch data from API and send HTTP request.
 
 Get icon package for solid icons.
 
+## `cd react-movie-web`
+
+Get into react folder to run the react app.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
