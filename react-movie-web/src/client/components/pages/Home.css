@@ -1,0 +1,19 @@
+.home-title {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.searchBar {
+    margin-top: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Icon {
+    margin-right: 20px;
+}
+
+.searchButton {
+    margin-left: 20px;
+}

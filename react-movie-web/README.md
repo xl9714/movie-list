@@ -1,7 +1,6 @@
-# movie-list
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+# Getting Started with Create React App
 
-A web app to search for movies. Type in an id to get the corresponding movie. Will update to search by name in the future.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -40,14 +39,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## `npm install axios` or `yarn add axios`
-
-Incorporate Axios in order to fetch data from API and send HTTP request.
-
-## `npm i --save @fortawesome/free-solid-svg-icons` or `yarn add @fortawesome/free-solid-svg-icons`
-
-Get icon package for solid icons.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -77,13 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## User Instruction
-
-### Landing on Home Page
-User will land in the **Home Page**. On this page, user can search for a movie by its id. 
-
-Both **Enter Button** and clicking on **Search** work. Accepted ID ranges from 02 - 957. No movie will appeaer if entering a letter. If not entering anyting and hit **Search Button**, nothing will happen.
-
-### Search Result Page
-On **Search Result Page**, user can see a poster of the result movie. They can click on the **Home Button** to return to the home page.
